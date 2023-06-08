@@ -1,2 +1,3 @@
-# Arbuz_with_Python_Django_Backend
- Arbuz crited by Backend Django Python
+firts step is run this code on terminal 
+if you have Windows (py manage.py runserver)
+if you have MAC (python manage.py runserver)
